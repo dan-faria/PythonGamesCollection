@@ -1,6 +1,3 @@
-# PythonGamesCollection
-Includes classic games like Tic-Tac-Toe, Snake, and more.
-
 # Python Games Collection
 
 Welcome to the Python Games Collection! This repository is a curated set of fun and interactive games developed using Python. Each game is designed to be simple yet engaging, showcasing the versatility and power of Python for game development. Whether you're a beginner looking to learn Python through hands-on projects or an experienced developer seeking inspiration, you'll find something interesting here.
