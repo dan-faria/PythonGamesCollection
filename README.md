@@ -7,7 +7,7 @@ Whether you're a beginner looking to learn Python through hands-on projects or a
 ## Features
 
 - Diverse Game Selection: Includes classic games like Tic-Tac-Toe, Snake, and more.
-- Beginner-Friendly: Easy-to-understand code with detailed comments and documentation.
+- Beginner-Friendly: Easy-to-understand code with detailed comments.
 - Modular Code: Well-structured and organized for easy modification and expansion.
 - Interactive Gameplay: Enjoyable games with user-friendly interfaces.
 
