@@ -15,3 +15,5 @@ Whether you're a beginner looking to learn Python through hands-on projects or a
 
 To get started, clone the repository and navigate to the game of your choice. 
 
+## Learning Purpose
+All scripts and projects in this repository are created for learning purposes. They are designed to help understand and explore different programming concepts and libraries.
